@@ -3,6 +3,7 @@
 This code solve the sliding puzzle https://en.wikipedia.org/wiki/Sliding_puzzle using deterministic algorithm (not A*). It produces a random puzzle and solves it. 
 
    12   15    2    6         1    2    3    4
+   
     3    0    7    9         5    6    7    8
     8    5   14   13   ===>  9   10   11   12
    10    4    1   11        13   14   15    0
